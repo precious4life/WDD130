@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background-color: rgb(132, 0, 255);
+    color: #ffffff;
+}
+.intro {
+    background-color: black;
+    color: #ffffff;
+    box-sizing: 30px;
+}
+footer {
+    background-color: aqua;
+}
+.social {
+    text-align: center;
+}
